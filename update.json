@@ -1,17 +1,14 @@
 {
   "appName": "Restoraq",
-  "latestVersion": "5.8",
-  "versionCode": 58,
+  "latestVersion": "5.9",
+  "versionCode": 59,
   "apkName": "Restoraq.apk",
-  "apkUrl": "https://github.com/sabbirahmedsar/restoraq-android/releases/download/v58/Restoraq.apk",
-  "apkSize": "4.47 MB",
+  "apkUrl": "https://github.com/sabbirahmedsar/restoraq-android/releases/download/v59/Restoraq.apk",
   "releaseDate": "2026-11-07",
   "releaseNotes": [
-    "New in-app software update system",
-    "In-app APK download progress",
-    "Redesigned full-screen splash screen",
-    "Improved UI/UX, performance and stability",
-    "Bug fixes and minor enhancements"
+    "Fixed in-app software update checking",
+    "Improved update download and install flow",
+    "General stability improvements"
   ],
   "updateMode": "optional"
 }
