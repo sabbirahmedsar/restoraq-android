@@ -1,16 +1,17 @@
 {
   "appName": "Restoraq",
-  "latestVersion": "6.0",
-  "versionCode": 60,
+  "latestVersion": "6.0.1",
+  "versionCode": 61,
   "apkName": "Restoraq.apk",
-  "apkUrl": "https://github.com/sabbirahmedsar/restoraq-android/releases/download/v6.0/Restoraq.apk",
+  "apkUrl": "https://github.com/sabbirahmedsar/restoraq-android/releases/download/v6.0.1/Restoraq.apk",
   "releaseDate": "2026-11-07",
   "releaseNotes": [
-    "New Staff Attendance Management",
-    "Improved Financial Reports",
-    "A4 and PDF Printing",
-    "Improved Opening Cash Management",
-    "Performance and Security Improvements"
+    "Fixed app version detection",
+    "Fixed repeated update notification issues",
+    "Improved update checking and cache prevention",
+    "Improved startup and data loading performance",
+    "Improved WebView cache management",
+    "Improved update system reliability"
   ],
   "updateMode": "optional"
 }
