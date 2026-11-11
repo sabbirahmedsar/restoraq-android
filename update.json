@@ -1,17 +1,23 @@
+
 {
   "appName": "Restoraq",
-  "latestVersion": "6.0.1",
-  "versionCode": 61,
+  "latestVersion": "6.0.2",
+  "versionCode": 62,
   "apkName": "Restoraq.apk",
-  "apkUrl": "https://github.com/sabbirahmedsar/restoraq-android/releases/download/v6.0.1/Restoraq.apk",
-  "releaseDate": "2026-11-07",
+  "apkUrl": "https://github.com/sabbirahmedsar/restoraq-android/releases/download/v6.0.2/Restoraq.apk",
+  "releaseDate": "2026-11-11",
   "releaseNotes": [
-    "Fixed app version detection",
-    "Fixed repeated update notification issues",
-    "Improved update checking and cache prevention",
-    "Improved startup and data loading performance",
-    "Improved WebView cache management",
-    "Improved update system reliability"
+    "Monthly Opening Cash management",
+    "Automatic daily Cash Carry-forward",
+    "Automatic Cash Sales calculation",
+    "Cash Purchase and Expenses deduction",
+    "Staff Advance and Salary deduction",
+    "Automatic month-end Closing calculation",
+    "Daily and Monthly Net Profit/Loss",
+    "Improved COGS and financial reports",
+    "Fixed Midnight Blue theme",
+    "New Bengali User Manual",
+    "Improved Offline support and performance"
   ],
   "updateMode": "optional"
 }
