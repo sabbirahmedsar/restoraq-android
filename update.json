@@ -1,19 +1,21 @@
 
 {
   "appName": "Restoraq",
-  "latestVersion": "6.1.2",
-  "versionCode": 72,
+  "latestVersion": "6.1.3",
+  "versionCode": 75,
   "apkName": "Restoraq.apk",
-  "apkUrl": "https://github.com/sabbirahmedsar/restoraq-android/releases/download/v6.1.1/Restoraq.apk",
+  "apkUrl": "",
   "releaseDate": "2026-11-12",
   "releaseNotes": [
-    "Restoraq v6.1.2 update.",
-    "Integrated Google AdMob SDK.",
-    "Added Banner Ads.",
-    "Added App Open Ads.",
-    "Moved banner ads inside page content.",
-    "Updated WebApp version configuration.",
-    "Improved update compatibility."
+    "Restoraq v6.1.3 released.",
+    "Updated Android versionName to 6.1.3.",
+    "Updated Android versionCode to 75.",
+    "Updated WebApp version metadata.",
+    "Updated service worker cache version to 75.",
+    "Debug builds keep AdMob requests disabled.",
+    "Release builds use configured Live AdMob Banner and App Open IDs.",
+    "Added AdMob configuration validation.",
+    "Improved application update compatibility."
   ],
   "updateMode": "optional"
 }
