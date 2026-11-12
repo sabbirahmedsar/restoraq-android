@@ -4,13 +4,15 @@
   "latestVersion": "6.1.0",
   "versionCode": 70,
   "apkName": "Restoraq.apk",
-  "apkUrl": "",
+  "apkUrl": "https://github.com/sabbirahmedsar/restoraq-android/releases/download/v6.1.0/Restoraq.apk",
   "releaseDate": "2026-11-12",
   "releaseNotes": [
-    "Version 6.1.0: fixes the Orders navigation hierarchy by placing All Orders inside the Order Management accordion.",
-    "Applies consistent submenu indentation, spacing, active-state styling and cyan accent treatment.",
-    "Synchronizes Android versionName 6.1.0, versionCode 70 and WebApp Service Worker cache v70.",
-    "APK release URL will be added only after the v6.1.0 APK is actually built and published."
+    "Restoraq v6.1.0",
+    "Improved sidebar navigation hierarchy.",
+    "Moved All Orders inside Order Management submenu.",
+    "Improved submenu spacing and active menu styling.",
+    "Updated Android versionCode to 70.",
+    "Updated WebApp cache version to v70."
   ],
   "updateMode": "optional"
 }
