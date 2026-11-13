@@ -1,17 +1,18 @@
 
 {
   "appName": "Restoraq",
-  "latestVersion": "6.1.3",
-  "versionCode": 75,
+  "latestVersion": "6.1.0",
+  "versionCode": 70,
   "apkName": "Restoraq.apk",
-  "apkUrl": "https://github.com/sabbirahmedsar/restoraq-android/releases/download/v6.1.3/Restoraq.apk",
+  "apkUrl": "https://github.com/sabbirahmedsar/restoraq-android/releases/download/v6.1.0/Restoraq.apk",
   "releaseDate": "2026-11-12",
   "releaseNotes": [
-    "Restoraq v6.1.3 released.",
-    "Updated AdMob configuration.",
-    "Improved application stability.",
-    "Updated WebApp and Android version information.",
-    "Improved software update compatibility."
+    "Restoraq v6.1.0",
+    "Improved sidebar navigation hierarchy.",
+    "Moved All Orders inside Order Management submenu.",
+    "Improved submenu spacing and active menu styling.",
+    "Updated Android versionCode to 70.",
+    "Updated WebApp cache version to v70."
   ],
   "updateMode": "optional"
 }
